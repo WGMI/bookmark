@@ -1,0 +1,26 @@
+/*!
+ * Start Bootstrap - Blog Post (https://startbootstrap.com/templates/blog-post)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-blog-post/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+.image-parent {
+  max-width: 80px;
+}
+
+.author {
+	font-size : 12px;
+	color : grey;
+}
+
+.rating {
+	font-size : 12px;
+	color : red;
+}
+
+.addbutton {
+	color : blue;
+}
